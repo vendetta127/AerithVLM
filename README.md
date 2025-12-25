@@ -15,8 +15,7 @@ AerithVLM is a modular and compute-efficient Vision-Language Model designed for 
 
 ---
 ## 🏗️ Architecture
-![AerithVLM Architecture](/Screenshot 2025-12-10 213030.png)
-
+![AerithVLM Architecture](https://github.com/vendetta127/AerithVLM/blob/main/Screenshot%202025-12-10%20213030.png?raw=true)
 AerithVLM consists of three main components:
 1. **Vision Encoder**
    - CLIP ViT-L/14 (1024-dim → 768-dim projection)
